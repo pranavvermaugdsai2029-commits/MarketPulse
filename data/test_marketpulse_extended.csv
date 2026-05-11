@@ -1,0 +1,41 @@
+week_start,competitor,product,price,promo,social_mentions,social_sentiment,traffic_index,review_score,notes
+2026-03-30,AlphaMart,Essentials Box,51.99,Spring bundle,1410,0.44,79,4.2,Stable launch week with strong bundle pull
+2026-04-06,AlphaMart,Essentials Box,49.99,Spring bundle,1525,0.42,82,4.2,Price cut improved traffic while sentiment held
+2026-04-13,AlphaMart,Essentials Box,47.49,Flash discount,1690,0.36,87,4.1,Deeper promo increased reach but softer sentiment
+2026-04-20,AlphaMart,Essentials Box,47.99,Loyalty points,1610,0.45,88,4.3,Loyalty mix recovered sentiment and kept traffic high
+2026-03-30,BetaBuy,Essentials Box,53.99,Free shipping,980,0.27,72,3.9,High price position with moderate awareness
+2026-04-06,BetaBuy,Essentials Box,52.99,Free shipping,1030,0.29,74,3.9,Shipping proposition sustained baseline conversion
+2026-04-13,BetaBuy,Essentials Box,50.99,Free shipping,1120,0.31,77,4.0,Small markdown improved interest incrementally
+2026-04-20,BetaBuy,Essentials Box,48.99,Weekend sale,1395,0.35,83,4.1,Weekend sale closed pricing gap versus leaders
+2026-03-30,Cartly,Essentials Box,45.49,No promo,690,0.16,60,3.6,Low price but weak brand pull
+2026-04-06,Cartly,Essentials Box,45.99,No promo,760,0.18,63,3.7,Slight traffic improvement without promotion
+2026-04-13,Cartly,Essentials Box,46.99,Creator code,1140,0.50,72,4.0,Creator push lifted sentiment and mentions sharply
+2026-04-20,Cartly,Essentials Box,46.49,Creator code,1295,0.56,79,4.2,Momentum continued with controlled pricing
+2026-03-30,DirectCo,Essentials Box,55.49,Subscription trial,610,0.47,57,4.5,Premium strategy with high review quality
+2026-04-06,DirectCo,Essentials Box,54.99,Subscription trial,660,0.46,58,4.5,Premium lane maintained with loyal audience
+2026-04-13,DirectCo,Essentials Box,54.99,Subscription trial,705,0.44,60,4.4,Stable premium signals with minimal churn
+2026-04-20,DirectCo,Essentials Box,51.99,Retention offer,940,0.49,68,4.5,Retention campaign boosted traffic efficiently
+2026-03-30,EcoThread,Essentials Box,50.49,Eco cashback,890,0.39,70,4.1,Sustainability messaging drove steady intent
+2026-04-06,EcoThread,Essentials Box,50.49,Eco cashback,960,0.41,73,4.2,Consistent value narrative improved sentiment
+2026-04-13,EcoThread,Essentials Box,49.99,Earth Day coupon,1320,0.48,80,4.3,Seasonal coupon created strong social lift
+2026-04-20,EcoThread,Essentials Box,49.49,Earth Day coupon,1385,0.50,82,4.3,Maintained momentum with slight price optimization
+2026-03-30,AlphaMart,Activewear Kit,74.99,Bundle and socks,1200,0.33,76,4.0,Good launch response in activewear segment
+2026-04-06,AlphaMart,Activewear Kit,72.99,Bundle and socks,1285,0.35,79,4.1,Minor markdown increased page visits
+2026-04-13,AlphaMart,Activewear Kit,69.99,Flash discount,1540,0.29,85,4.0,Aggressive promo traded margin for volume
+2026-04-20,AlphaMart,Activewear Kit,70.49,Loyalty points,1480,0.37,84,4.2,Post-promo rebound in sentiment and reviews
+2026-03-30,BetaBuy,Activewear Kit,77.99,Free shipping,860,0.21,68,3.8,Upper price position with weaker social buzz
+2026-04-06,BetaBuy,Activewear Kit,76.99,Free shipping,905,0.24,69,3.9,Small improvements from shipping message
+2026-04-13,BetaBuy,Activewear Kit,73.99,Weekend sale,1195,0.28,75,4.0,Weekend sale improved discoverability
+2026-04-20,BetaBuy,Activewear Kit,72.99,Weekend sale,1270,0.31,78,4.0,Follow-up sale sustained demand growth
+2026-03-30,Cartly,Activewear Kit,68.49,No promo,640,0.12,56,3.5,Value pricing but limited trust indicators
+2026-04-06,Cartly,Activewear Kit,68.99,No promo,700,0.14,58,3.6,Slightly better traffic with stable sentiment
+2026-04-13,Cartly,Activewear Kit,69.49,Creator code,1060,0.43,66,3.9,Influencer code improved reach and perception
+2026-04-20,Cartly,Activewear Kit,68.99,Creator code,1165,0.47,71,4.0,Creator channel kept engagement elevated
+2026-03-30,DirectCo,Activewear Kit,82.99,Membership gift,520,0.40,52,4.4,Premium niche focus with loyal base
+2026-04-06,DirectCo,Activewear Kit,82.49,Membership gift,560,0.41,53,4.4,Stable premium conversion profile
+2026-04-13,DirectCo,Activewear Kit,80.99,Retention offer,760,0.45,60,4.5,Selective discount improved consideration
+2026-04-20,DirectCo,Activewear Kit,79.99,Retention offer,855,0.48,64,4.5,Retention lane drove high-quality traffic
+2026-03-30,EcoThread,Activewear Kit,73.49,Eco cashback,770,0.31,65,4.0,Eco-first positioning resonated with core users
+2026-04-06,EcoThread,Activewear Kit,73.49,Eco cashback,815,0.33,67,4.1,Steady growth on consistent messaging
+2026-04-13,EcoThread,Activewear Kit,72.99,Earth Day coupon,1095,0.42,73,4.2,Seasonal campaign boosted mentions and sentiment
+2026-04-20,EcoThread,Activewear Kit,72.49,Earth Day coupon,1175,0.44,75,4.2,Sustained social momentum with modest markdown
